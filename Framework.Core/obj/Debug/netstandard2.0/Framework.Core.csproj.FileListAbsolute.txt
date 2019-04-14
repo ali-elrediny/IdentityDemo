@@ -22,7 +22,6 @@ D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\bin\Debug\netstandar
 D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\bin\Debug\netstandard2.0\Framework.Core.pdb
 D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\bin\Debug\netstandard2.0\ar\Framework.Core.resources.dll
 D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\bin\Debug\netstandard2.0\en\Framework.Core.resources.dll
-D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\obj\Debug\netstandard2.0\Framework.Core.csprojAssemblyReference.cache
 D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\obj\Debug\netstandard2.0\Framework.Core.Resources.CommonMessages.resources
 D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\obj\Debug\netstandard2.0\Framework.Core.Resources.CommonMessages.ar.resources
 D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\obj\Debug\netstandard2.0\Framework.Core.Resources.CommonMessages.en.resources
@@ -34,3 +33,4 @@ D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\obj\Debug\netstandar
 D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\obj\Debug\netstandard2.0\en\Framework.Core.resources.dll
 D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\obj\Debug\netstandard2.0\Framework.Core.dll
 D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\obj\Debug\netstandard2.0\Framework.Core.pdb
+D:\Projects\Sure\Framework.Core\IdentityDemo\Framework.Core\obj\Debug\netstandard2.0\Framework.Core.csprojAssemblyReference.cache
